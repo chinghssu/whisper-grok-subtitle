@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# 虛擬環境
+.venv/
+
+# Whisper 模型與影片
+*.mp4
+whisper_model/
+output.srt
+output_grok.srt
